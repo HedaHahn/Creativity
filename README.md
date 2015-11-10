@@ -1,1 +1,1 @@
-# Creativity figuring out how to use Github and make repositories!
+# Creativlty figuring out how to use Github and make repositories!
